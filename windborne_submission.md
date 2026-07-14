@@ -14,3 +14,6 @@ A model can get better average accuracy and still be less useful. It might do be
 5. Describe a time you changed how you use LLMs in your work — switching models, tools, or workflows. What did you observe that prompted the change?
 I’m pretty flexible with LLM tools and switch when something works better. I’ve used Cursor, Trae, Codex, and Claude Code depending on the task. What usually makes me switch is simple: which one gives cleaner output, faster iteration, and less friction for the kind of work I’m doing.
 
+6. (Optional) Your fav ML Twitter account?
+@Harry_The_Nerd
+
